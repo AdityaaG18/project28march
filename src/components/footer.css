@@ -1,0 +1,39 @@
+.footer{
+    display: flex;
+    background: #282828;
+    width: 100%;
+    left: -2px;
+    height: 229px;
+    position: absolute;
+    top: 539px;
+    /* color: white;
+    justify-content: space-between; */
+}
+
+ul{
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-direction: column;
+    top: 35px;
+    left: 157px;
+    color: azure;
+    list-style: none;
+    line-height: 171%;
+} 
+
+ol{
+    display: flex;
+    
+    position: absolute;
+    align-items: flex-end;
+    flex-direction: column;
+    top: 35px;
+    left: 1143px;
+    color: azure;
+    list-style: none;
+}
+
+.logo-list{
+    height: 16px;
+}
